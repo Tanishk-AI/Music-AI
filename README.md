@@ -60,7 +60,7 @@ Author of this Sotware is aware of the possibility of such damages and known def
 App UI inspired by <a href = 'https://github.com/vfsfitvnm'>vfsfitvnm</a>'s ViMusic<br/>
 Synced lyrics provided by <a href = 'https://lrclib.net' >LRCLIB</a> <br/>
 <a href = 'https://piped.video' >Piped</a> for playlists.
-
+<a href = 'https://github.com/anandnet'>AnandNet</a>'s Harmony Music APP's MOD Version<br/>
 #### Major Packages used
 * just_audio: ^0.9.40  -  audio player for android
 * media_kit: ^1.1.9 - audio player for linux and windows
